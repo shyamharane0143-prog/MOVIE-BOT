@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/TechshshyamReqwestgroup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+ubC9IFkVRas4YWE1">[ MOVIE Channel ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/TechshshyamReqwestgroup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+ubC9IFkVRas4YWE1">[ Techshyam Backup ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
